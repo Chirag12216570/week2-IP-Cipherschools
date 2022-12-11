@@ -1,0 +1,17 @@
+@import url('https://docs.google.com/spreadsheets/d/1U8soAeHrx4nGXqpr4XYBYDWdz01UuZLE2eW3VrCqJeU/edit#gid=650387589')
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.main-header{
+    background-color: #d0d6d5;
+}
+.main-section{
+    background-color: #e0e0e0;
+}
+.secondary{
+    color:aqua;
+}
+span{
+    color: blue;
+}
